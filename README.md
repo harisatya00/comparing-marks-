@@ -1,0 +1,2 @@
+# comparing-marks-
+P1 and P2 are having a lockout match between them. There are n problems in the contest worth s1, s2, ...., sn, respectively. Only the first player to solve a problem gets points for that problem. It is impossible for P1 and P2 to solve a problem at the same time. Moderator wants to know if there is any chance of a draw if P1 and P2 manage to solve all n problems. A draw occurs when both players end with equal number of points.
